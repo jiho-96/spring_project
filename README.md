@@ -25,7 +25,6 @@
 06. [📊 Diagram](#-다이어그램-)
 07. [📹 기능 설명](#-기능-설명-)
 08. [🔨개발 환경](#-개발-환경-)
-09. [🤐개선 사항](#-개선-사항-)
 
 
 ## 📂 PPT 📂
@@ -150,11 +149,6 @@ https://github.com/DeumE-Shop/DeumE-Shop/assets/145524959/087bc6f0-0301-4eba-b46
 </details>
 
 
-
-## 🤐 개선 사항 🤐
-
-<details><summary>개선사항</summary>
-<br/>
  
 
 </details>
