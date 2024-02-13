@@ -7,13 +7,78 @@
 
 <div>
 
-| **![@](https://github.com/DeumE-Shop/DeumE-Shop/assets/145524959/9eb4164b-6aff-4d7e-95db-08819308bfca)** |  **![@](https://github.com/DeumE-Shop/DeumE-Shop/assets/145524959/5b99770c-ecc7-4cb8-bd7f-3daf8883278d)** |
-| :------: |  :------: |
-|  ![awsaws](https://github.com/NovTeamProject/Team_Project/assets/145963611/c33a2433-81d8-4137-88d6-c7c7c350a030)  |  ![notion2](https://github.com/NovTeamProject/Team_Project/assets/145963611/8e1e720e-e202-4ad8-9767-0befe6dcf529)  | 
-|  [@AWS](http://deume.kro.kr)  |   [@Notion](https://feline-khaan-f70.notion.site/c388c2f473824cd8a40cf9d2f6707238?pvs=4)  |  
-
-
+![image](https://github.com/jiho-96/spring_project/assets/145963790/0421464a-0c62-465d-8a14-9c5ffb2f6aa0)
 </div>
+
+<br>
+
+## 📖 둘러보기
+
+<details><summary>Click</summary> 
+<br/>
+ 
+<details><summary>로그인</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/4794bdec-1589-45a9-a60c-cfbcd0af75b7)
+</details>
+
+<details><summary>상품등록</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/76acfb5d-9302-4d32-a0c5-264978705d04)
+</details>
+
+<details><summary>상품페이지</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/55723652-f8be-457c-bb61-2ff7f251f492)
+</details>
+
+<details><summary>판매자 마이페이지</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/5182121c-628b-4aab-8186-0210ef10a26b)
+</details>
+
+<details><summary>판매상품관리 페이지</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/f4f7f849-e2fc-400c-b66d-9cf2ce9ce64b)
+</details>
+
+
+<details><summary>판매관리 페이지</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/fce5ecbb-5e7b-49ba-ae74-c034b15aa005)
+</details>
+
+<details><summary>관리자 공지사항</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/15184102-8433-4523-8f92-49360ce4af7c)
+</details>
+
+<details><summary>관리자 페이지</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/981a7ae1-53d1-4792-b348-2d89957cc9f7)
+</details>
+
+<details><summary>장바구니</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/26452f57-0cd6-43c2-b75f-2f4c04beba5e)
+</details>
+
+<details><summary>리뷰작성</summary>
+ <br/>
+ 
+![image](https://github.com/jiho-96/spring_project/assets/145963790/ab48a826-9455-4775-a50b-bfd49f96bfc9) 
+</details>
+
+</details>
 
 ## 📚 목차 📚
 
